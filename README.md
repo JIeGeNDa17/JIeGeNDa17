@@ -63,7 +63,9 @@
 <br/><br/>
 
 <!-- ===== TROPHIES ===== -->
+<!-- временно отключено: публичный инстанс trophy отдаёт 402 (квота)
 <img src="https://github-profile-trophy.vercel.app/?username=JIeGeNDa17&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
+-->
 
 </div>
 
