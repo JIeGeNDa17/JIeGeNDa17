@@ -1,15 +1,15 @@
 <!-- ===== HEADER BANNER (neon gradient wave) ===== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F700FF,50:8A2BE2,100:00E5FF&height=200&section=header&text=JIeGeNDa&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer&descAlignY=58&descSize=18" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:282828,50:504945,100:B57614&height=200&section=header&text=JIeGeNDa&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Developer&descAlignY=58&descSize=18" alt="header"/>
 
 <!-- ===== TYPING TEXT ===== -->
 <a href="https://github.com/JIeGeNDa17">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Always+learning+new+things;Automating+everything+with+code;Building+side+projects+for+fun" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D79921&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Always+learning+new+things;Automating+everything+with+code;Building+side+projects+for+fun" alt="typing"/>
 </a>
 
 <!-- ===== PROFILE VIEWS ===== -->
-<img src="https://komarev.com/ghpvc/?username=JIeGeNDa17&style=for-the-badge&color=F700FF&label=PROFILE+VIEWS" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=JIeGeNDa17&style=for-the-badge&color=D79921&label=PROFILE+VIEWS" alt="views"/>
 
 </div>
 
@@ -53,17 +53,17 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JIeGeNDa17&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIeGeNDa17&layout=compact&theme=radical&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JIeGeNDa17&show_icons=true&theme=gruvbox&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JIeGeNDa17&layout=compact&theme=gruvbox&hide_border=true&langs_count=8"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JIeGeNDa17&theme=radical&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JIeGeNDa17&theme=gruvbox&hide_border=true"/>
 
 <br/><br/>
 
 <!-- ===== TROPHIES ===== -->
-<img src="https://github-profile-trophy.vercel.app/?username=JIeGeNDa17&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JIeGeNDa17&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
@@ -79,7 +79,7 @@
 <!-- ===== FOOTER ===== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:8A2BE2,100:F700FF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B57614,50:504945,100:282828&height=120&section=footer"/>
 
 </div>
 
